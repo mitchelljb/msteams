@@ -10,9 +10,9 @@ page_sections:
   - link: "/"
     link_text: Home
   - link: "#"
-    link_text: About me
-  - link: "#"
     link_text: Blogs
+  - link: "#"
+    link_text: About me
   - link: "#"
     link_text: Contact
   cta:
