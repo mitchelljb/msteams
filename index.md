@@ -16,11 +16,10 @@ page_sections:
     button_text: Download
 - template: hero-banner-w-image
   block: hero-2
-  headline: uBuild <br><strong>design blocks</strong>
-  content: The tool that allows you to build beautiful sites<br>all inside Forestry's
-    content manager.
+  headline: MSTEAMS.ME
+  content: Microsoft Teams blog site
   cta:
-    enabled: true
+    enabled: false
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
@@ -70,7 +69,8 @@ page_sections:
     article</a> and create your own Blocks.</p></li></ol>
 - template: simple-footer
   block: footer-1
-  content: Hello world! ❤︎
+  content: "❤︎ Microsoft Teams<br>All rights reserved - msteams.me - Mitchell Bakker
+    - 2020"
 
 ---
 foo bar
