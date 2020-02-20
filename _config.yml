@@ -3,7 +3,7 @@ title: MSTEAMS.ME
 author: Mitchell Bakker
 email: mail@mitchellbakker.nl
 description: Microsoft Teams Blog - Latest News
-baseurl: "/ubuild-jekyll"
+baseurl: "/"
 url: https://msteams.me
 defaults:
 - scope:
