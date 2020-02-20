@@ -12,8 +12,8 @@ page_sections:
   - link: "#features"
     link_text: Features
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: "❤︎ Microsoft Teams ❤︎<br>All rights reserved - msteams.me - Mitchell Bakker
