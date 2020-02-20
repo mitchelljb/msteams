@@ -54,7 +54,7 @@ page_sections:
     create new sites and make them fully customizable. \U0001F447"
 - template: simple-footer
   block: footer-1
-  content: "❤︎ Microsoft Teams<br>All rights reserved - msteams.me - Mitchell Bakker
+  content: "❤︎ Microsoft Teams ❤︎<br>All rights reserved - msteams.me - Mitchell Bakker
     - 2020"
 
 ---
