@@ -25,6 +25,8 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
+  - link: "/msteams/blogs"
+    link_text: Blogs
   - link: "/msteams/"
     link_text: Home
   logo: ''
