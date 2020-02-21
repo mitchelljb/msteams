@@ -1,5 +1,5 @@
 ---
-label: signup-bar
+label: DEFAULT_signup-bar
 hide_body: false
 fields:
 - type: text
