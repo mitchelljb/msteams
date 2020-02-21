@@ -1,5 +1,5 @@
 ---
-label: page-builder
+label: DEFAULT_page-builder
 hide_body: true
 fields:
 - type: text
