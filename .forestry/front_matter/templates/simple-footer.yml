@@ -1,5 +1,5 @@
 ---
-label: simple-footer
+label: DEFAULT_simple-footer
 hide_body: false
 fields:
 - type: text
