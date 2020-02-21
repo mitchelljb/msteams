@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: content-feature
   block: feature-1
-  media_alignment: Right
+  media_alignment: Left
   headline: "<strong>About me:</strong>"
   content: "<strong>Name:</strong> Mitchell Bakker<br><strong>Age:</strong> 32<br><strong>Status:
     </strong>Married<br>"
