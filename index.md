@@ -22,6 +22,12 @@ page_sections:
   block: footer-1
   content: "❤︎ Microsoft Teams ❤︎<br>All rights reserved - msteams.me - Mitchell Bakker
     - 2020"
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: "/msteams/"
+    link_text: Home
+  logo: ''
 
 ---
 foo bar
