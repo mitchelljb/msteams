@@ -15,18 +15,6 @@ page_sections:
   - link: "/contact"
     link_text: Contact
   logo: ''
-- template: hero-banner-w-image
-  block: hero-2
-  background_image: ''
-  headline: Welcome
-  image:
-    image: ''
-    alt_text: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: simple-footer
   block: footer-1
   content: "❤︎ Microsoft Teams ❤︎<br>All rights reserved - msteams.me - Mitchell Bakker
