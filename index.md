@@ -10,7 +10,7 @@ page_sections:
     link_text: Home
   - link: "/Blogs"
     link_text: Blogs
-  - link: "/msteams/about-me"
+  - link: "/about-me"
     link_text: About Me
   - link: "/msteams/contact"
     link_text: Contact
