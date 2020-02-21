@@ -15,6 +15,18 @@ page_sections:
   - link: "/msteams/contact"
     link_text: Contact
   logo: ''
+- template: hero-banner-w-image
+  block: hero-2
+  background_image: "/uploads/2020/02/21/Naamloos.png"
+  headline: Welcome
+  image:
+    image: ''
+    alt_text: ''
+  content: ''
+  cta:
+    enabled: false
+    url: ''
+    button_text: ''
 - template: simple-footer
   block: footer-1
   content: "❤︎ Microsoft Teams ❤︎<br>All rights reserved - msteams.me - Mitchell Bakker
