@@ -1,5 +1,5 @@
 ---
-layout: blocks
+layout: ''
 title: Blogs
 date: ''
 page_sections:
@@ -24,5 +24,8 @@ page_sections:
 - template: simple-footer
   block: footer-1
   content: ''
+block: one-column-1
+headline: ''
+content: ''
 
 ---
