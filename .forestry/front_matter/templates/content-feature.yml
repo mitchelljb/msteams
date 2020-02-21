@@ -43,3 +43,4 @@ fields:
   default: Right
 pages:
 - _posts/Test.md
+- _posts/test2.md
