@@ -1,5 +1,5 @@
 ---
-label: default
+label: DEFAULT_default
 hide_body: false
 fields:
 - name: layout
