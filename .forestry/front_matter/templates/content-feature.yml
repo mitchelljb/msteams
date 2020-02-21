@@ -1,5 +1,5 @@
 ---
-label: content-feature
+label: DEFAULT_content-feature
 hide_body: false
 fields:
 - type: text
