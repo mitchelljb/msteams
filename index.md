@@ -25,12 +25,14 @@ page_sections:
 - template: navigation-header
   block: header-1
   navigation:
-  - link: "/msteams/about-me"
-    link_text: About Me
-  - link: "/msteams/blogs"
-    link_text: Blogs
+  - link: "/msteams/contact"
+    link_text: Contact
   - link: "/msteams/"
     link_text: Home
+  - link: "/msteams/blogs"
+    link_text: Blogs
+  - link: "/msteams/about-me"
+    link_text: About Me
   logo: ''
 
 ---
