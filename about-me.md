@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: About me
+title: About-me
 date: 
 page_sections: []
 
