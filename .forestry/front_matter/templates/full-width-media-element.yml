@@ -1,5 +1,5 @@
 ---
-label: full-width-media-element
+label: DEFAULT_full-width-media-element
 hide_body: false
 fields:
 - type: text
