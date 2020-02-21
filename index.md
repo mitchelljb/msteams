@@ -13,7 +13,7 @@ page_sections:
     link_text: Blogs
   - link: "/msteams/About me"
     link_text: About me
-  - link: "/Contact"
+  - link: "/msteams/Contact"
     link_text: Contact
   cta:
     url: ''
