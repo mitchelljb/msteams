@@ -2,6 +2,39 @@
 layout: blocks
 title: Blogs
 date: 
-page_sections: []
+page_sections:
+- template: navigation-header
+  block: header-1
+  navigation:
+  - link: ''
+    link_text: ''
+  logo: ''
+- template: detail-content
+  block: text-1
+  headline: ''
+  content: ''
+- template: content-feature
+  block: feature-1
+  media_alignment: Right
+  headline: ''
+  content: ''
+  media:
+    image: ''
+    alt_text: ''
+- template: full-width-media-element
+  block: media-1
+  image: ''
+  caption: ''
+- template: 2-column-media-element
+  block: media-2
+  image_1:
+    image: ''
+    caption: ''
+  image_2:
+    image: ''
+    caption: ''
+- template: simple-footer
+  block: footer-1
+  content: ''
 
 ---
