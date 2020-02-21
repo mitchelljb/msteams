@@ -7,7 +7,7 @@ page_sections:
   block: header-2
   logo: "/uploads/2020/02/21/msteamsbanner.png"
   navigation:
-  - link: "/"
+  - link: "/msteams/"
     link_text: Home
   - link: "/blogs"
     link_text: Blogs
