@@ -1,5 +1,5 @@
 ---
-label: 2-column-text
+label: DEFAULT_2-column-text
 hide_body: false
 fields:
 - type: text
