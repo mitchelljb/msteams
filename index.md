@@ -12,7 +12,7 @@ page_sections:
     link_text: Blogs
   - link: "/about-me"
     link_text: About Me
-  - link: "/msteams/contact"
+  - link: "/contact"
     link_text: Contact
   logo: ''
 - template: hero-banner-w-image
