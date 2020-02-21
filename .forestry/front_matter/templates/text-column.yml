@@ -1,5 +1,5 @@
 ---
-label: text-column
+label: DEFAULT_text-column
 hide_body: false
 fields:
 - type: text
