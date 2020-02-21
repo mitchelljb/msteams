@@ -11,7 +11,7 @@ page_sections:
     link_text: Home
   - link: "/msteams/blogs"
     link_text: Blogs
-  - link: "/About me"
+  - link: "/msteams/About me"
     link_text: About me
   - link: "/Contact"
     link_text: Contact
