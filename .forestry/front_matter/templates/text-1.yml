@@ -1,5 +1,5 @@
 ---
-label: text-1
+label: DEFAULT_text-1
 hide_body: false
 fields:
 - type: text
