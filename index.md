@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/msteams/"
     link_text: Home
-  - link: "/blogs"
+  - link: "/msteams/blogs"
     link_text: Blogs
   - link: "/About me"
     link_text: About me
